@@ -44,7 +44,7 @@
 >
 > 而本题考察的就是快慢指针。
 
-![](F:\JavaScript-Charles\LeetCode\images\27移除元素-1.png)
+![](../images/27移除元素-1.png)
 
 ```js
 /**
